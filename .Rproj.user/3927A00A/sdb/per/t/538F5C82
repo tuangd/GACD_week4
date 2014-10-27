@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1414341074606.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "538F5C82",
+    "lastKnownWriteTime" : 21392300099829876,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "setHighEps",
+        "contentUrl" : "content?title=setHighEps&file=d8e38e2d93eb4bd38d34fc439d6dba98.htm",
+        "displayedObservations" : 39,
+        "displayedVariables" : 36,
+        "totalObservations" : 39,
+        "variables" : 36
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

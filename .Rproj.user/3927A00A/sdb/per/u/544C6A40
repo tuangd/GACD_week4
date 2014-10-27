@@ -1,0 +1,17 @@
+{
+    "contents" : "me <- getUsers(\"me\", token=token)\nmy_friends <- getFriends(token=token, simplify=TRUE)\nmy_friends_info <- getUsers(my_friends$id, token=token, private_info=TRUE)\nmy_network <- getNetwork(token, format=\"adj.matrix\")\nsingletons <- rowSums(my_network)==0 # friends who are friends with me alone\n\nrequire(igraph)\nmy_graph <- graph.adjacency(my_network[!singletons,!singletons])\nlayout <- layout.drl(my_graph,options=list(simmer.attraction=0))\nplot(my_graph, vertex.size=2, \n     #vertex.label=NA, \n     vertex.label.cex=0.35,\n     edge.arrow.size=0, edge.curved=TRUE,layout=layout)",
+    "created" : 1414311303173.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2220549233",
+    "id" : "544C6A40",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1414340534620.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B0745A09",
+    "lastKnownWriteTime" : 21392300099829876,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "sectorsum",
+        "contentUrl" : "content?title=sectorsum&file=3f04a12409d041b4ae3033c0445110d1.htm",
+        "displayedObservations" : "27",
+        "displayedVariables" : 2,
+        "totalObservations" : "27",
+        "variables" : "2"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

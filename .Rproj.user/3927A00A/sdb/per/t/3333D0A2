@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1414310776825.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3333D0A2",
+    "lastKnownWriteTime" : 21392300099829876,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "my_friends",
+        "contentUrl" : "content?title=my_friends&file=64783a63b41143e1b6566759f6122241.htm",
+        "displayedObservations" : 39,
+        "displayedVariables" : 14,
+        "totalObservations" : 39,
+        "variables" : 14
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

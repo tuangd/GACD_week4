@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1414340947837.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B233E120",
+    "lastKnownWriteTime" : 21392300099829876,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "sectorquantile",
+        "contentUrl" : "content?title=sectorquantile&file=c2840f6adf744af9958fac2d4d881c7f.htm",
+        "displayedObservations" : 27,
+        "displayedVariables" : 3,
+        "totalObservations" : 27,
+        "variables" : 3
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
